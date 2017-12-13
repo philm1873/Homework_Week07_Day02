@@ -10,14 +10,14 @@
 
 When a reference to an instance of a class has the ability to take different types.
 
-// class X implements Y {
+// public class X implements Y {
 
 // Y variable = new X() }
 
 
 3. What can we use to implement polymorphism in Java?
 
-Abstract classes and interfaces.
+Parent classes and interfaces.
 
 4. How many 'forms' can an object take when using polymorphism?
 
